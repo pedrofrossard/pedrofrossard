@@ -8,8 +8,5 @@ Sou desenvolvedor Front-end.
 Atualmente trabalho na xxx.
 
 Faço algumas coisinhas em:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-
-My Skills
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
