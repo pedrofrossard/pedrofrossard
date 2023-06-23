@@ -1,16 +1,15 @@
-### Hi there 👋
+Bem-vindo, amigo(a) 👋
 
-<!--
-**pedrofrossard/pedrofrossard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim:
 
-Here are some ideas to get you started:
+Oi, eu sou o Pedro!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou desenvolvedor Front-end.
+Atualmente trabalho na xxx.
+
+Faço algumas coisinhas em:
+![image](https://github.com/pedrofrossard/pedrofrossard/assets/108740992/cc773d77-2756-4a56-85ea-b7b5c66ae57c)
+
+
+My Skills
+
