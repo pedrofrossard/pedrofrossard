@@ -4,8 +4,7 @@ Sobre mim:
 
 Oi, eu sou o Pedro!
 
-Sou desenvolvedor Front-end.
-Atualmente trabalho na xxx.
+Sou Desenvolvedor Front-end.
 
 Faço algumas coisinhas em:
 
